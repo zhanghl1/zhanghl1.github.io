@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="416.021" height="154.931" viewBox="0 0 416.021 154.931">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #56b4f6;
+      }
+
+      .cls-2 {
+        fill: #fd7d9c;
+      }
+
+      .cls-3 {
+        fill: #0543c0;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #fdfbd7;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-5 {
+        fill: #f0e55d;
+      }
+    </style>
+  </defs>
+  <g id="组_173" data-name="组 173" transform="translate(2 2)">
+    <g id="组_159" data-name="组 159" transform="translate(0 0)">
+      <rect id="矩形_171" data-name="矩形 171" class="cls-1" width="391.518" height="131.567" rx="12.589" transform="translate(9.619 9.494)"/>
+      <rect id="矩形_172" data-name="矩形 172" class="cls-2" width="319.368" height="37.136" transform="translate(49.938 84.827)"/>
+      <path id="路径_577" data-name="路径 577" class="cls-3" d="M4979.787-5590.648s15.915-23.077,30.239-23.077,27.056,15.119,38.2,15.119,26.261-21.485,37.4-21.485,22.281,22.281,35.013,22.281,8.754-11.406,31.035-11.406,17.268-14.757,32.025,0,45.96,0,49.144,0,26.26,13.794,42.971,13.794,23.342,4.774,23.342,4.774Z" transform="translate(-4929.849 5712.611)"/>
+      <rect id="矩形_173" data-name="矩形 173" class="cls-4" width="412.021" height="150.931" rx="12.589"/>
+      <g id="组_158" data-name="组 158" transform="translate(50.232 27.944)">
+        <rect id="矩形_174" data-name="矩形 174" class="cls-5" width="5.584" height="17.368" transform="translate(12.281 0) rotate(45)"/>
+        <rect id="矩形_175" data-name="矩形 175" class="cls-5" width="5.584" height="17.368" transform="translate(16.229 12.281) rotate(135)"/>
+      </g>
+    </g>
+  </g>
+</svg>

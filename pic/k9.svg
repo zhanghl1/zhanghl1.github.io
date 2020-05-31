@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="156.878" height="156.749" viewBox="0 0 156.878 156.749">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fd7d9c;
+      }
+
+      .cls-2 {
+        fill: #d74465;
+      }
+
+      .cls-3 {
+        fill: #56b4f6;
+      }
+
+      .cls-4 {
+        fill: #f0e55d;
+      }
+    </style>
+  </defs>
+  <g id="组_176" data-name="组 176" transform="translate(-934.218 -674.54)">
+    <g id="组_170" data-name="组 170" transform="translate(934.218 674.54)">
+      <g id="组_162" data-name="组 162" transform="translate(0)">
+        <rect id="矩形_188" data-name="矩形 188" class="cls-1" width="126.527" height="84.351" transform="translate(0 42.176)"/>
+        <path id="路径_579" data-name="路径 579" class="cls-2" d="M3551.911-5696.076H3425.383l63.264-42.175h0Z" transform="translate(-3425.383 5738.251)"/>
+        <rect id="矩形_189" data-name="矩形 189" class="cls-3" width="109.286" height="87.004" transform="translate(8.621 18.933)"/>
+        <path id="路径_580" data-name="路径 580" class="cls-2" d="M3551.911-5668.019l-63.264,42.176-63.264,42.176h126.527Z" transform="translate(-3425.383 5710.194)"/>
+        <path id="路径_581" data-name="路径 581" class="cls-1" d="M3488.647-5625.843l-63.264-42.176v84.352Z" transform="translate(-3425.383 5710.194)"/>
+        <rect id="矩形_190" data-name="矩形 190" class="cls-4" width="89.657" height="5.305" transform="translate(18.303 32.151)"/>
+        <rect id="矩形_191" data-name="矩形 191" class="cls-4" width="72.017" height="5.305" transform="translate(18.303 45.414)"/>
+        <rect id="矩形_192" data-name="矩形 192" class="cls-4" width="34.572" height="5.305" transform="translate(41.292 58.677)"/>
+        <rect id="矩形_193" data-name="矩形 193" class="cls-4" width="10.478" height="5.305" transform="translate(97.482 45.414)"/>
+      </g>
+    </g>
+    <g id="组_171" data-name="组 171" transform="translate(1031.261 771.454)">
+      <g id="组_157" data-name="组 157" transform="translate(0 0)">
+        <circle id="椭圆_199" data-name="椭圆 199" class="cls-4" cx="29.918" cy="29.918" r="29.918"/>
+        <g id="组_156" data-name="组 156" transform="translate(11.861 12.047)">
+          <rect id="矩形_169" data-name="矩形 169" class="cls-1" width="12.701" height="39.501" transform="translate(27.931 0) rotate(45)"/>
+          <rect id="矩形_170" data-name="矩形 170" class="cls-1" width="12.701" height="39.501" transform="translate(36.912 27.931) rotate(135)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

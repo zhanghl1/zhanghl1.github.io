@@ -1,0 +1,27 @@
+<svg id="组_169" data-name="组 169" xmlns="http://www.w3.org/2000/svg" width="250.693" height="146.073" viewBox="0 0 250.693 146.073">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f0e55d;
+      }
+
+      .cls-2 {
+        fill: #56b4f6;
+      }
+
+      .cls-3 {
+        fill: #fd7d9c;
+      }
+    </style>
+  </defs>
+  <g id="组_160" data-name="组 160" transform="translate(0)">
+    <path id="路径_578" data-name="路径 578" class="cls-1" d="M3968.458-5956.286H3732.884a7.56,7.56,0,0,0-7.56,7.56v138.513l25.89-22.2h217.244a7.56,7.56,0,0,0,7.56-7.561v-108.751A7.56,7.56,0,0,0,3968.458-5956.286Z" transform="translate(-3725.324 5956.286)"/>
+    <rect id="矩形_176" data-name="矩形 176" class="cls-2" width="115.386" height="10.345" transform="translate(27.37 57.42)"/>
+    <rect id="矩形_177" data-name="矩形 177" class="cls-2" width="87.269" height="10.345" transform="translate(27.37 87.163)"/>
+    <rect id="矩形_178" data-name="矩形 178" class="cls-2" width="38.727" height="10.345" transform="translate(132.014 87.163)"/>
+    <rect id="矩形_179" data-name="矩形 179" class="cls-2" width="38.727" height="10.345" transform="translate(188.116 87.163)"/>
+    <rect id="矩形_180" data-name="矩形 180" class="cls-3" width="70.293" height="10.345" transform="translate(156.55 57.42)"/>
+    <rect id="矩形_181" data-name="矩形 181" class="cls-2" width="50.664" height="10.345" transform="translate(27.37 26.866)"/>
+    <rect id="矩形_182" data-name="矩形 182" class="cls-2" width="131.921" height="10.345" transform="translate(94.922 26.866)"/>
+  </g>
+</svg>
