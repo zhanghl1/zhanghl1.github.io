@@ -2,7 +2,7 @@ html,body{
     margin: 0;
     padding: 0;
     background-color:#3B8CF0;
-    height: 10000px;
+    height: 15000px;
 }
 #part1{
     position: fixed;
@@ -308,26 +308,84 @@ html,body{
     position: absolute;
     top:18vh;
     left: 105vw;
+    height: 65vh;
     z-index: 41;
 }
+
 #p2{
     position: absolute;
     top:20vh;
     left: 105vw;
+    height: 60vh;
     z-index: 41;
 }
 #p3{
     position: absolute;
     top:24vh;
     left: 105vw;
+    height: 57vh;
     z-index: 41;
 }
 #p4{
     position: absolute;
     top:17vh;
     left: 105vw;
+    height: 75vh;
     z-index: 41;
 }
+
+#cp1{
+    width: 30vw;
+    position: absolute;
+    top: 105vh;
+    left:60vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2.5vh;
+    font-weight: bold;
+    opacity: 1;
+    color: white;
+    z-index: 42;
+}
+
+#cp2{
+    width: 30vw;
+    position: absolute;
+    top: 105vh;
+    left:60vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2.5vh;
+    font-weight: bold;
+    opacity: 1;
+    color: white;
+    z-index: 42;
+}
+
+#cp3{
+    width: 30vw;
+    position: absolute;
+    top: 105vh;
+    left:60vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2.5vh;
+    font-weight: bold;
+    opacity: 1;
+    color: white;
+    z-index: 42;
+}
+
+#cp4{
+    width: 30vw;
+    position: absolute;
+    top: 105vh;
+    left:60vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2.5vh;
+    font-weight: bold;
+    opacity: 1;
+    color: white;
+    z-index: 42;
+}
+
 
 #balance{
     text-transform:uppercase;

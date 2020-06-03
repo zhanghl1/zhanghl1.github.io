@@ -291,6 +291,31 @@ var end=anime({
     autoplay:false,
 })
 
+var cp1=anime({
+    targets:'#cp1',
+    translateY:-150+'vh',
+    easing:'easeInOutCubic',
+    autoplay: false,
+})
+var cp2=anime({
+    targets:'#cp2',
+    translateY:-150+'vh',
+    easing:'easeInOutCubic',
+    autoplay: false,
+})
+var cp3=anime({
+    targets:'#cp3',
+    translateY:-150+'vh',
+    easing:'easeInOutCubic',
+    autoplay: false,
+})
+var cp4=anime({
+    targets:'#cp4',
+    translateY:-150+'vh',
+    easing:'easeInOutCubic',
+    autoplay: false,
+})
+
 
 window.addEventListener('scroll', function(e){
     let scrolled = document.documentElement.scrollTop/(document.documentElement.scrollHeight - 
@@ -306,12 +331,16 @@ window.addEventListener('scroll', function(e){
         //$logobg.style.opacity = 0.2 + scrolled* 5;
         //$logobg.style.width = document.documentElement.clientWidth * 15 * (scrolled-0.1) +'px';
         
-            p1.seek((scrolled-0.76) * 8 * p1.duration);
-            p2.seek((scrolled-0.80) * 8 * p2.duration);
+            p1.seek((scrolled-0.75) * 8 * p1.duration);
+            p2.seek((scrolled-0.79) * 8 * p2.duration);
             p3.seek((scrolled-0.84) * 8 * p3.duration);
             p4.seek((scrolled-0.88) * 8 * p4.duration);
-            balance.seek((scrolled-0.93) * 8 * balance.duration);
-            end.seek((scrolled-0.93) * 8 * end.duration);
+            cp1.seek((scrolled-0.76) * 8 * cp1.duration);
+            cp2.seek((scrolled-0.80) * 8 * cp2.duration);
+            cp3.seek((scrolled-0.85) * 8 * cp3.duration);
+            cp4.seek((scrolled-0.89) * 8 * cp4.duration);
+            balance.seek((scrolled-0.93) * 7 * balance.duration);
+            end.seek((scrolled-0.93) * 7 * end.duration);
         
 
         
@@ -335,24 +364,24 @@ window.addEventListener('scroll', function(e){
             question.seek((scrolled-0.5) * 10 * question.duration);
         
             
-            content06.seek((scrolled-0.4) * 20 * content06.duration);
+            content06.seek((scrolled-0.4) * 15 * content06.duration);
             pic06.seek((scrolled-0.4) * 40 * pic06.duration);
             yellowbg.seek((scrolled-0.45) * 15 * yellowbg.duration);
   
             
-            content05.seek((scrolled-0.35) * 20 * content05.duration);
+            content05.seek((scrolled-0.35) * 15 * content05.duration);
             pic05.seek((scrolled-0.35) * 40 * pic05.duration);
    
             
-            content04.seek((scrolled-0.3) * 20 * content04.duration);
+            content04.seek((scrolled-0.3) * 15 * content04.duration);
             pic04.seek((scrolled-0.3) * 40 * pic04.duration);
       
             
-            content03.seek((scrolled-0.25) * 20 * content03.duration);
+            content03.seek((scrolled-0.25) * 15 * content03.duration);
             pic03.seek((scrolled-0.25) * 40 * pic03.duration);
 
    
-            content02.seek((scrolled-0.2) * 20 * content02.duration);
+            content02.seek((scrolled-0.2) * 15 * content02.duration);
      
             logo.seek((scrolled-0.07) * 10 * logo.duration);
             logobg.seek((scrolled-0.1) * 10 * logobg.duration);

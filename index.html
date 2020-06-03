@@ -35,9 +35,23 @@
             <img src="pic/end.svg" id="end">
 
             <img src="pic/p1.svg" id="p1">
+            <div id="cp1">
+                Have you contributed to your friends’ data build-up by tagging them in photos and posts in the past?
+Lighten their data load (and your conscience in the process) by untagging them in as many photos and posts as you can. Pass it on! Encourage your friends, family, and co-workers to join you in controlling fly-away data.
+            </div>
             <img src="pic/p2.svg" id="p2">
+            <div id="cp2">
+               Just creating a password for your device is not enough, you can also create different passwords for your other applications. Setting up two-factor authentication (2FA) or multi-factor authentication (MFA) means that even if someone finds your password, they probably won’t have the additional factor they need to get in. Also, don’t let the browser automatically save your password.
+            </div>
             <img src="pic/p3.svg" id="p3">
+            <div id="cp3">
+                Persuasive design, also known as “dark patterns”, are designs based on human psychology that are used to provoke you into signing up for something, buying something, or giving away more personal information than you thought or intended.
+To see examples of dark patterns, and learn more about how you can spot them, check out the article The Internet Made Me Do It: Find Clarity Amidst Confusing Designs.
+             </div>
             <img src="pic/p4.svg" id="p4">
+            <div id="cp4">
+                Your social media apps, games, and weather apps are interested in your data … and they may be collecting quite a lot of it. Getting rid of those random apps on your phone that you never use can be a powerful way to detox your digital self. If the application asks you for a data access, think about whether it really needs this permission?
+             </div>
         
             <img src="pic/k2.svg" id="k2">
             <img src="pic/k3.svg" id="k3">
